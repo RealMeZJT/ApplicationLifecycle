@@ -1,5 +1,5 @@
 # ApplicationLifecycle
-监听应用程序生命周期的示例，目前只监听了程序‘已进入前台’和‘已进入后台’的事件。
+Android 监听应用程序生命周期的示例，目前只监听了程序‘已进入前台’和‘已进入后台’的事件。
 
 思路来自于 stackoverflow 上的一个问答：https://stackoverflow.com/questions/3667022/checking-if-an-android-application-is-running-in-the-background/13809991#13809991
 
